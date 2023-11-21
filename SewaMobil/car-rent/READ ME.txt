@@ -1,0 +1,16 @@
+
+							|
+===========---//INSTALASI SOURCE CODE\\---==============|
+							|
+-Ekstrak source code					|
+-Jika menggunakan xampp simpan folder car-rent ke dalam |
+ folder htdocs						|
+-Buat database baru dengan nama mobil			|
+-import file mobil.sql yang ada di folder db ke dalam	|
+ database yang dibuat tadi				|
+-Buka browser lalu jalankan dengan menuliskan 		|
+ localhost/car-rent					|
+							|
+Akun Admin			Akun User		|	
+user: admin			user: asep		|
+pass: admin			pass: asep		|
